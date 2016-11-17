@@ -84,7 +84,11 @@
     },
     "reflinks": [
       "base",
-      "minibase"
+      "minibase",
+      "commitizen",
+      "standard-version",
+      "verb",
+      "verb-generate-readme"
     ],
     "lint": {
       "reflinks": true
